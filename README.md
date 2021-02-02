@@ -1,8 +1,7 @@
 <h1 align="center">Hello Folks<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Prateek Jain</h1>
-  <h3 align="center">Backend Developer || Frontend Developer 👨‍💻</h3
+  <h3 align="center">👨‍💻|| Backend Developer || Frontend Developer ||👨‍💻</h3
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekjain999&label=Profile%20views&color=0e75b6&style=flat" alt="prateekjain999" /> </p>
-
+<p align="left"></p>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
@@ -40,16 +39,14 @@
 
 **Languages**
 
- *<img src ="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" height=25>  <img src ="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" height=25>  <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" height=25>  <img src="https://img.shields.io/badge/mysql-%233776AB.svg?&style=flat-square&logo=mysql&logoColor=white" alt="mysql" height=25>  <img src="https://img.shields.io/badge/mongodb-%233776AB.svg?&style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" height=25>*
+ *<img src ="https://img.shields.io/badge/python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/JavaScript%20-%2300599C.svg?&style=for-the-badge&logo=javascript&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=25>  <img src ="https://img.shields.io/badge/Java%20-%2300599C.svg?&style=for-the-badge&logo=java&logoColor=white" height=25>  <img src="https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height=25>  <img src="https://img.shields.io/badge/mongodb%20-%2300599C.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height=25>*
  
  **Tools**
  
- *<img src="https://img.shields.io/badge/Git-%233776AB.svg?&style=flat-square&logo=git&logoColor=white" alt="git" height=25/>  <img src="https://img.shields.io/badge/Postman-%233776AB.svg?&style=flat-square&logo=postman&logoColor=white" alt="postman" height=25>  <img src="https://img.shields.io/badge/Eclipse-%233776AB.svg?&style=flat-square&logo=Eclipse&logoColor=white" alt="postman" height=25>*
+ *<img src="https://img.shields.io/badge/Git-%233776AB.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" height=25/>  <img src="https://img.shields.io/badge/Postman-%233776AB.svg?&style=for-the-badge&logo=postman&logoColor=white" alt="postman" height=25>  <img src="https://img.shields.io/badge/Eclipse-%233776AB.svg?&style=for-the-badge&logo=Eclipse&logoColor=white" alt="postman" height=25>*
 
  # Stats:
  
-![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PrateekJain999&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PrateekJain999&layout=compact&hide=html&theme=jolly" alt="PrateekJain999" />&nbsp;&nbsp;&nbsp;&nbsp;
