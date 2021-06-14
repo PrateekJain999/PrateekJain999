@@ -16,7 +16,7 @@
   
 * Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on **WhatsApp API**.
+- 🔭 I’m currently working on **Telegram Bot**.
 
 - 🌱 I’m currently learning **Node JS**.
 
